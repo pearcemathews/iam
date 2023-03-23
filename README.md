@@ -18,3 +18,24 @@ This is also a chance to get more familar with general technology for running so
 * Infrastruture as code
 * Continuous integration
 * Continous delivery
+
+## Tools To Try
+With no specific architecture (yet), these are some tools to explore:
+* Keycloak
+* Open Policy Agent
+* Envoy
+* Istio
+* OpenLDAP
+* Docker
+* Terraform
+* Kubernetes
+* Spinnaker
+* Argo
+* CoreDNS
+* fluentd
+* Helm
+* TUF
+* SPIFFE
+* Prometheus
+* Jaeger
+* Buildpacks.io
