@@ -39,3 +39,10 @@ With no specific architecture (yet), these are some tools to explore:
 * Prometheus
 * Jaeger
 * Buildpacks.io
+* OpenIAM
+* WSO2 Identity Server
+* Shibboleth
+* Gluu
+* FreeIPA
+* LemonLDAP
+* FusionAuth
