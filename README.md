@@ -10,6 +10,8 @@ Some areas to explore:
 * Authorization
 * Single sign-on
 * Public key infrastructure
+* Multi cloud
+* Hybrid cloud
 
 This is also a chance to get more familar with general technology for running software, including:
 * Microservice architecture
